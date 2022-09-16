@@ -1,0 +1,11 @@
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\bin\Debug\netcoreapp2.2\S.deps.json
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\bin\Debug\netcoreapp2.2\S.runtimeconfig.json
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\bin\Debug\netcoreapp2.2\S.runtimeconfig.dev.json
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\bin\Debug\netcoreapp2.2\S.dll
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\bin\Debug\netcoreapp2.2\S.pdb
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\obj\Debug\netcoreapp2.2\S.csprojAssemblyReference.cache
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\obj\Debug\netcoreapp2.2\S.csproj.CoreCompileInputs.cache
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\obj\Debug\netcoreapp2.2\S.AssemblyInfoInputs.cache
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\obj\Debug\netcoreapp2.2\S.AssemblyInfo.cs
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\obj\Debug\netcoreapp2.2\S.dll
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\Principios_SOLID\obj\Debug\netcoreapp2.2\S.pdb

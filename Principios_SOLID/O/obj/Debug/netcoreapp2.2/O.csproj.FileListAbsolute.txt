@@ -1,0 +1,11 @@
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\bin\Debug\netcoreapp2.2\O.deps.json
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\bin\Debug\netcoreapp2.2\O.runtimeconfig.json
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\bin\Debug\netcoreapp2.2\O.runtimeconfig.dev.json
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\bin\Debug\netcoreapp2.2\O.dll
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\bin\Debug\netcoreapp2.2\O.pdb
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\obj\Debug\netcoreapp2.2\O.csprojAssemblyReference.cache
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\obj\Debug\netcoreapp2.2\O.csproj.CoreCompileInputs.cache
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\obj\Debug\netcoreapp2.2\O.AssemblyInfoInputs.cache
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\obj\Debug\netcoreapp2.2\O.AssemblyInfo.cs
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\obj\Debug\netcoreapp2.2\O.dll
+C:\Udemy\PrincipiosSOLID\Principios_SOLID\O\obj\Debug\netcoreapp2.2\O.pdb
