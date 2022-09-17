@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2zLL7R9BIw5YIGUewh+eMmCBD6Fr65d222dctgAM3XgPXew9EJ+uF3ze5hoWkFde31vSJhKLeyUY9M5ZxGa7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dewry\\OneDrive\\Documentos\\NetNetCoreCourse\\Principios_SOLID\\Principios_SOLID\\Principios_SOLID\\S.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dewry\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\Dewry\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\Dewry\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\Dewry\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\Dewry\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\Dewry\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dewry\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
